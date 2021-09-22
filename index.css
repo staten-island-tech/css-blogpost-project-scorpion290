@@ -1,0 +1,21 @@
+body {
+  background-color: #0e1331;
+  font-family: "Are You Serious", cursive;
+  color: #ffffff;
+}
+
+.main-post {
+  background-color: #303f9f;
+  text-align: center;
+  margin: 40px auto;
+  border: 10px solid #161d49;
+  width: 1000px;
+}
+
+.post {
+  background-color: #03a9f4;
+  text-align: center;
+  margin: 40px auto;
+  border: 10px solid #1976d2;
+  width: 1000px;
+}
