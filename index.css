@@ -10,12 +10,37 @@ body {
   margin: 40px auto;
   border: 10px solid #161d49;
   width: 1000px;
+  font-size: 50px;
 }
 
 .post {
   background-color: #03a9f4;
+  font-size: 20px;
   text-align: center;
   margin: 40px auto;
   border: 10px solid #1976d2;
   width: 1000px;
+}
+
+.more-images {
+  font-size: 50px;
+}
+
+.image {
+  background-position: center;
+  background-size: cover;
+  color: white;
+  height: 60vh;
+}
+
+#image-penguin {
+  background-image: url(img/penguin.jpg);
+}
+
+#image-turkey {
+  background-image: url(img/turkey.jpg);
+}
+
+#image-chicken {
+  background-image: url(img/chicken.jpg);
 }
