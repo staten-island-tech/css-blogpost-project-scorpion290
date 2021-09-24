@@ -20,17 +20,28 @@ body {
   margin: 40px auto;
   border: 10px solid #1976d2;
   width: 1000px;
+  font-size: 30px;
 }
 
-.more-images {
-  font-size: 50px;
-}
-
-.image {
+.post-image {
   background-position: center;
   background-size: cover;
   color: white;
-  height: 60vh;
+  height: 50vh;
+  width: 50vh;
+}
+
+.description {
+  font-size: 40px;
+}
+
+.author {
+  color: #89daff;
+}
+
+.image-links {
+  font-size: 50px;
+  color: #bbdefb;
 }
 
 #image-penguin {
